@@ -1,0 +1,23 @@
+.box{
+    background-color: aqua;
+    /* margin: 20px; */
+    transform: translate();
+    /* ye hai left right adjustment ke liye  */
+    /* transform: rotate(0deg); */
+
+    /* transform: scale(5,4); */
+    /* transform: skew(25deg); */
+
+
+
+}
+#divi{
+    border: 1px solid black;
+
+}
+#left{
+    position: left;
+}
+#right{
+    position: right;
+}

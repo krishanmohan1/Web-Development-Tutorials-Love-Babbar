@@ -1,0 +1,55 @@
+
+
+h1{
+    text-shadow: 10px 10px 10px red,-5px -5px 5px green;
+} 
+
+
+
+.box{
+    color:green;
+    border:1px solid black;
+    width:200px;
+    height:200px;
+    box-shadow: 5px 5px 5px brown, -5px -5px 5px yellow ;
+
+    /* padding: 20px; */
+    box-sizing: border-box;
+    text-align:center;
+   
+}  
+
+h2{
+    text-shadow: 10px 10px 8px red , -10px -10px 5px green ;
+}
+
+h3{
+    
+      text-shadow: -10px -10px 5px green;
+    
+}
+
+/* div{
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-image: linear-gradient(to right,green , blue);
+    box-shadow: 2px 2px 2px yellow;
+} */
+
+
+.div2{
+    height: 100px;
+    border: 1px solid;
+    background-image: linear-gradient(to top right , yellow, blue);
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: larger;
+
+    background-image: radial-gradient(red,green);
+}
+

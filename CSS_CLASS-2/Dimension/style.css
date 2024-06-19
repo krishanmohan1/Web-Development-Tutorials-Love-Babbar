@@ -1,0 +1,17 @@
+.box{
+    border:1px solid black;
+    min-width:10px;
+    height:100px;
+    overflow:auto;
+    margin: 10px;
+
+}
+
+#divi{
+    
+    height:50px;
+    border:1px solid black;
+    overflow-x:scroll;
+    overflow-y:scroll;
+
+}

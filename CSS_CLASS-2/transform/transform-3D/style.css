@@ -1,0 +1,76 @@
+div{
+
+    height: 150px;
+    width: 150px;
+    border: solid black;
+    background-color: aqua;
+
+
+}
+
+.box1{
+    transform: perspective(250px) translateZ(-125px);
+     
+
+
+}
+
+
+.box2{
+
+    transform: perspective(250px) rotateZ(30deg) rotate(4) scaleZ(5) translate(50,50) ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

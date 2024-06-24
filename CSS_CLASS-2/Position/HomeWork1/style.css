@@ -1,0 +1,40 @@
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 50px;
+    margin: 100px auto;
+    
+}
+.left{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
+
+.right{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.lb{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+
+}
+.rb{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+
+}
+.center{
+    position: absolute;
+   
+    left: 50%;
+    top : 50%;
+    transform: translate(-50%,-50%);
+}

@@ -3,11 +3,12 @@
     width: 200px;
     height:200px;
     background-image: linear-gradient(red,green);
-    /* background-image: linear-gradient(to top,red,green); */
-   /* background-image: linear-gradient(to left,red,green); */
-    /* background-image: linear-gradient(to right,red,green,yellow,pink); */
+    background-image: linear-gradient(to top,red,green); 
+    background-image: linear-gradient(to left,red,green); 
+    background-image: linear-gradient(to right,red,green,yellow,pink);
     background-image: linear-gradient(to top right,red,green);
-background-image: linear-gradient(100  deg,red,green);
+    background-image: linear-gradient(100  deg,red,green);
+    background-image: linear-gradient(orange,white,green);
 
 
 }
@@ -23,4 +24,8 @@ background-image: linear-gradient(100  deg,red,green);
     background-image: radial-gradient(10%yellow,30%green,50%red);  
     background-image:radial-gradient(circle ,red,green,orange);
     background-image:linear-gradient(orange,white,green);
+    background-image:radial-gradient(circle,rgba(255,255,255,0),rgba(0,0,0,1))
+
+
+
 } 

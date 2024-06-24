@@ -1,0 +1,40 @@
+.wrapper{
+    height: 2000px;
+    width: 100vw;
+    background:yellow;
+}
+
+.box{
+    display: inline-block;
+    background-color:aqua;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    /* margin: 10px; */
+}
+
+/* #box3{
+    position: relative;
+    top: 50px;
+    left:50px;
+    
+} */
+
+
+/* #box2{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+} */
+
+/* #box2{
+    position: relative;
+    left: 50px;
+    top: 50px;
+} */
+
+#box3{
+    position: sticky;
+    left: 50px;
+    top: 50px;
+}
